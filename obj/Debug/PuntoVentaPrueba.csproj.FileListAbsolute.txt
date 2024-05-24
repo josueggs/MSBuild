@@ -1,0 +1,15 @@
+C:\Users\jcanas\OneDrive - Montecillos\Escritorio\Mine things\Curso C#\PuntoVentaPrueba\bin\Debug\PuntoVentaPrueba.exe.config
+C:\Users\jcanas\OneDrive - Montecillos\Escritorio\Mine things\Curso C#\PuntoVentaPrueba\bin\Debug\PuntoVentaPrueba.exe
+C:\Users\jcanas\OneDrive - Montecillos\Escritorio\Mine things\Curso C#\PuntoVentaPrueba\bin\Debug\PuntoVentaPrueba.pdb
+C:\Users\jcanas\OneDrive - Montecillos\Escritorio\Mine things\Curso C#\PuntoVentaPrueba\obj\Debug\PuntoVentaPrueba.csproj.AssemblyReference.cache
+C:\Users\jcanas\OneDrive - Montecillos\Escritorio\Mine things\Curso C#\PuntoVentaPrueba\obj\Debug\PuntoVentaPrueba.Form1.resources
+C:\Users\jcanas\OneDrive - Montecillos\Escritorio\Mine things\Curso C#\PuntoVentaPrueba\obj\Debug\PuntoVentaPrueba.Properties.Resources.resources
+C:\Users\jcanas\OneDrive - Montecillos\Escritorio\Mine things\Curso C#\PuntoVentaPrueba\obj\Debug\PuntoVentaPrueba.csproj.GenerateResource.cache
+C:\Users\jcanas\OneDrive - Montecillos\Escritorio\Mine things\Curso C#\PuntoVentaPrueba\obj\Debug\PuntoVentaPrueba.csproj.CoreCompileInputs.cache
+C:\Users\jcanas\OneDrive - Montecillos\Escritorio\Mine things\Curso C#\PuntoVentaPrueba\obj\Debug\PuntoVentaPrueba.exe
+C:\Users\jcanas\OneDrive - Montecillos\Escritorio\Mine things\Curso C#\PuntoVentaPrueba\obj\Debug\PuntoVentaPrueba.pdb
+C:\Users\jcanas\OneDrive - Montecillos\Escritorio\Mine things\Curso C#\PuntoVentaPrueba\bin\Debug\Negocio.dll
+C:\Users\jcanas\OneDrive - Montecillos\Escritorio\Mine things\Curso C#\PuntoVentaPrueba\bin\Debug\Datos.dll
+C:\Users\jcanas\OneDrive - Montecillos\Escritorio\Mine things\Curso C#\PuntoVentaPrueba\bin\Debug\Negocio.pdb
+C:\Users\jcanas\OneDrive - Montecillos\Escritorio\Mine things\Curso C#\PuntoVentaPrueba\bin\Debug\Datos.pdb
+C:\Users\jcanas\OneDrive - Montecillos\Escritorio\Mine things\Curso C#\PuntoVentaPrueba\obj\Debug\PuntoVentaPrueba.csproj.CopyComplete
